@@ -1,0 +1,11 @@
+DPについて
+
+・最短経路 (quartz 0089)
+・01ナップザック問題 (quartz 0042) O(n*m)
+・LCS O(n*m)
+・LIS O(nlogk)
+・MaximumSum（1次元) (Kadane) O(n) (quartz 0022)
+・MaximumSum (2次元) O(n^3) (uva 108)
+・EditDistance(レーベンシュタイン距離) O(n*m)
+・巡回セールスマン (n*2^n) (quartz 146, 1140)
+
