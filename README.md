@@ -1,4 +1,9 @@
-kyougi_lib
+競技プログラミング用ライブラリ
 ==========
 
-kyougi-programming library
+ここにあるコードのライセンスは NYSL です。
+使えそう場合は好きに使って下さい。
+
+詳細は license.txt にて。
+
+
